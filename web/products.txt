@@ -1,0 +1,4 @@
+1;Toshiba klima inverter;2550
+2;Samsung monitor 23 inch;430
+3;Android Philips TV 50 inch 4k;1700
+4;Digitalna kamera Sony;550
